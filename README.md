@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PedroAugustoDev
+- 👀 I’m interested in Java, React, Flutter and Spring
+- 🌱 I’m currently learning Spring and React
