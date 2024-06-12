@@ -11,6 +11,5 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  <p align="center"> atualmente sou técnico desenvolvedor de sistemas, gosto muito de Java, pois ela está presente nos 3 tipos de desenvolvimento mais utilizados atualmente, desktop, web e mobile</p>
   
   ##
