@@ -1,4 +1,4 @@
-# Olá, eu sou o @PedroAugustoDev
+# @PedroAugustoDev
 
 <div align="center">
   <a href="https://github.com/PedroAugustoDev">
